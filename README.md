@@ -25,8 +25,8 @@ from indeed import IndeedClient
 client = IndeedClient(publisher = YOUR_PUBLISHER_NUMBER)
 ```
 
-If you do not have a publisher number, you can receive one by heading to the
-[Indeed Publisher Portal](https://ads.indeed.com/jobroll/xmlfeed).
+If you do not have a publisher number, you can receive one by signing up on the
+[Indeed Publisher Portal](https://ads.indeed.com/jobroll/xmlfeed).  Your Publisher ID is then available [here](https://ads.indeed.com/jobroll/xmlfeed).
 
 
 ## Performing a Job Search
